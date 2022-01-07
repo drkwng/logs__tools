@@ -1,4 +1,4 @@
-# Logs Tools
+# Logs Tools by [DRKWNG](https://drkwng.rocks)
 ## bot_validate.py
 Check IPs from console to validate bots:
 
